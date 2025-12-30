@@ -1,4 +1,6 @@
 # Investigation--Reports
 
-#Objectives
+## Objectives
 The objective is to showcase incidents and alerts investigated over time.
+
+## Reports
