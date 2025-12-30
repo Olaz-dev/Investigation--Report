@@ -10,6 +10,9 @@ The objective is to showcase incidents and alerts investigated over time.
 
 - <a href="https://github.com/Olaz-dev/Possible-logon-breach/tree/main"> Possible logon breach <a/>
 
+- <a href="https://github.com/Olaz-dev/Brute-Force-Attack-and-C2-Implant-Installation-on-FRONTDESK-PC1-Dental-Clinic-Compromise"> Brute-Force Attack and C2 Implant Installation on FRONTDESK-PC1 – Dental Clinic Compromise <a/>
+
+
 
 
 
